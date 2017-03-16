@@ -307,10 +307,10 @@ $(window).load(function(){
 
   
 //Google Map					
-	var latlng = new google.maps.LatLng(-7.1345844,-34.873499);
+	var latlng = new google.maps.LatLng(-7.1108062,-34.8480628);
 	var settings = {
 		zoom: 16,
-		center: new google.maps.LatLng(-7.1345844,-34.873499), mapTypeId: google.maps.MapTypeId.ROADMAP,
+		center: new google.maps.LatLng(-7.1108062,-34.8480628), mapTypeId: google.maps.MapTypeId.ROADMAP,
 		mapTypeControl: false,
 		scrollwheel: false,
 		draggable: true,
