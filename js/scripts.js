@@ -348,7 +348,7 @@ $(window).load(function(){
 	
 	
 	
-	var companyPos = new google.maps.LatLng(-7.1345844,-34.873499);
+	var companyPos = new google.maps.LatLng(-7.1108062,-34.8480628);
 	
 	var companyMarker = new google.maps.Marker({
 		position: companyPos,
