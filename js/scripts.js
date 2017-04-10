@@ -329,7 +329,7 @@ $(window).load(function () {
     var companyImage = new google.maps.MarkerImage('images/marker.png',
         new google.maps.Size(58, 63),
         new google.maps.Point(0, 0),
-        new google.maps.Point(35, 20)
+        new google.maps.Point(15, 50)
     );
 
 

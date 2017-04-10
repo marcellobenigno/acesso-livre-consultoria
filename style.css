@@ -783,7 +783,7 @@ a.carlinhos-button {
 
 .outline {
     background-color: none;
-    border: 2px solid #222222;
+    border: 2px solid #fff;
     color: #222222;
     line-height: 10px !important;
 }
@@ -791,17 +791,18 @@ a.carlinhos-button {
 .outline:hover {
     background-color: #222222;
     color: #FFF;
+	border: 2px solid #222;
 }
 
 .outline.white {
-    background-color: none;
-    border: 2px solid #fff;
-    color: #fff;
+    background-color:#fff;
+    /*border: 2px solid #222;*/
+    color: #222;
 }
 
 .outline.white:hover {
-    background-color: #fff;
-    color: #222;
+    background-color:#222222;
+    color: #fff;
 }
 
 .rounded {
@@ -2983,7 +2984,7 @@ input#search:focus {
 
 /*imagens*/
 .img-globo {
-    margin: -100px auto 30px
+    margin:  100px auto 30px
 }
 
 /* Responsive Media Querries */
